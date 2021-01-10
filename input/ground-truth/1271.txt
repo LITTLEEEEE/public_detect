@@ -1,0 +1,3 @@
+smoking 178 45 245 99
+smoking 46 9 114 192
+smoking 175 133 289 184

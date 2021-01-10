@@ -1,0 +1,5 @@
+smoking 5 11 94 124
+smoking 256 1 363 91
+smoking 384 1 450 75
+no_mask 93 55 136 106
+no_mask 351 1 390 50

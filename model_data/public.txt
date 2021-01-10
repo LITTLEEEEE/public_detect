@@ -1,0 +1,3 @@
+no_mask
+have_mask
+smoking
